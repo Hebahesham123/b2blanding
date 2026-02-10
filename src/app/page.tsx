@@ -116,9 +116,6 @@ export default function Home() {
 
         {/* Welcome text */}
         <div className="relative z-10 text-center px-3 mb-2">
-          <h2 className="text-lg sm:text-xl font-semibold text-stone-800 mb-0.5">
-            نرحّب بشركائنا من التجّار الكبار
-          </h2>
           <p className="text-stone-600 text-sm">
             شركة نجيب سليم | خبرة، جودة، واستمرارية
           </p>
@@ -183,9 +180,6 @@ export default function Home() {
       {/* Welcome text + form - tight padding */}
       <div className="relative z-10 flex-1 flex flex-col items-center px-3 py-3 sm:py-5">
         <div className="w-full max-w-md text-center">
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-semibold text-stone-800 mb-0.5 sm:mb-1">
-            نرحّب بشركائنا من التجّار الكبار
-          </h2>
           <p className="text-stone-600 text-sm sm:text-base mb-3 sm:mb-4">
             شركة نجيب سليم | خبرة، جودة، واستمرارية
           </p>
