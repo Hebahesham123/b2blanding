@@ -186,7 +186,7 @@ export default function Home() {
 
           <div className="border-2 border-[#522F1F]/50 rounded-none bg-amber-50/90 p-5 sm:p-6 mb-4 text-right">
             <p className="text-stone-800 text-base sm:text-lg">
-              خصم <span className="font-bold">40% + 20%</span> علي جميع الأقمشة
+              خصم <span className="font-bold">10%</span> علي جميع الأقمشة
             </p>
             <p className="text-stone-800 text-base sm:text-lg mt-2">
 في فروع الاسكندريه            </p>
