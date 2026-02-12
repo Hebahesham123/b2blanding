@@ -189,8 +189,7 @@ export default function Home() {
               خصم <span className="font-bold">40% + 20%</span> علي جميع الأقمشة
             </p>
             <p className="text-stone-800 text-base sm:text-lg mt-2">
-              في فروع اوبن اير مول مدينتي، النزهة وزهراء المعادي
-            </p>
+في فروع الاسكندريه            </p>
             <p className="text-stone-800 text-base sm:text-lg mt-2 font-semibold">
               سجّل الآن لتحصل على قسيمتك!
             </p>
