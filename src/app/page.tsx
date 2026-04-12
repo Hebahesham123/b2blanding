@@ -185,12 +185,19 @@ export default function Home() {
           </p>
 
           <div className="border-2 border-[#522F1F]/50 rounded-none bg-amber-50/90 p-5 sm:p-6 mb-4 text-right">
-            <p className="text-stone-800 text-base sm:text-lg">
-              خصم <span className="font-bold">10%</span> علي جميع الأقمشة
+            <p className="text-stone-800 text-base sm:text-lg font-bold mb-3">
+              🪟 عرض الستارة
             </p>
-            <p className="text-stone-800 text-base sm:text-lg mt-2">
-في فروع الاسكندريه            </p>
-            <p className="text-stone-800 text-base sm:text-lg mt-2 font-semibold">
+            <p className="text-stone-700 text-sm sm:text-base">✔️ تفصيل الويڤي مجانا</p>
+            <p className="text-stone-700 text-sm sm:text-base mt-1">✔️ المعاينة مجانا</p>
+            <p className="text-stone-700 text-sm sm:text-base mt-1">✔️ التركيب مجانا</p>
+            <p className="text-stone-800 text-base sm:text-lg font-bold mt-3">
+              + خصم 20% حصري
+            </p>
+            <p className="text-stone-700 text-sm sm:text-base mt-1">
+              بمناسبة افتتاح فرع الشيخ زايد
+            </p>
+            <p className="text-stone-800 text-sm sm:text-base mt-2 font-semibold">
               سجّل الآن لتحصل على قسيمتك!
             </p>
           </div>
