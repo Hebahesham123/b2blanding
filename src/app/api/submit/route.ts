@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 import { createClient } from "@supabase/supabase-js";
 
-const PROMO_CODE = "NS10";
+const PROMO_CODE = "NSZD-20";
 
 export async function POST(request: Request) {
   try {
